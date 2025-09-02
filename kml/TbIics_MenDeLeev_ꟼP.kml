@@ -20,6 +20,7 @@
 		<refreshMode>onExpire</refreshMode>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
+<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
 	<LatLonBox>
 		<north>46.72747456312728</north>
 		<south>41.04493733614064</south>
