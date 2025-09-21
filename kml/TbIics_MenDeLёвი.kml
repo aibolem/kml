@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <GroundOverlay>
-	<name>TbIics_MenDeLёвი</name>
+	<name>TbIics_MenDeLёвი2</name>
 	<description><![CDATA[<a href="https://aibolem.github.io/kml/kml/index.html">https://aibolem.github.io/kml/kml/index.html</a>]]></description>
 	<LookAt>
 		<gx:TimeStamp><when>2025-09-02T14:08:00Z</when>
@@ -15,11 +15,12 @@
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
 	<color>a8ffffff</color>
+	<drawOrder>2</drawOrder>
 	<Icon>
 		<href>TbIics_MenDeLeev_db.png</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
-	<altitude>800000</altitude>
+	<altitude>500000</altitude>
 	<altitudeMode>absolute</altitudeMode>
 	<LatLonBox>
 		<north>70.18843372365411</north>
