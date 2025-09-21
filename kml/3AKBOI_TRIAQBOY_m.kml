@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>3AKBOI_TRIAQBOY_m</name>
+	<description><![CDATA[<a href="https://www.facebook.com/2OTAN">https://www.facebook.com/2OTAN</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>1989-04-09T01:00:00Z</when>
+</gx:TimeStamp>
+		<longitude>37.6191791060559</longitude>
+		<latitude>55.75447918906119</latitude>
+		<altitude>0</altitude>
+		<heading>43.8935399183191</heading>
+		<tilt>29.77553568555674</tilt>
+		<range>288.5789189672136</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<drawOrder>1</drawOrder>
+	<Icon>
+		<href>3AKBOI.jpg</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>55.75491388888889</north>
+		<south>55.75398611111111</south>
+		<east>37.62033333333333</east>
+		<west>37.61823888888889</west>
+		<rotation>-42.517</rotation>
+	</LatLonBox>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+</GroundOverlay>
+</kml>
