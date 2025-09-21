@@ -74,6 +74,7 @@
                         <div class="leaflet-control-layers-base"></div>
                         <div class="leaflet-control-layers-separator" style="display: none;"></div>
                         <div class="leaflet-control-layers-overlays"><label>
+							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> 3AKBOI_TRIAQBOY_m.kml</span></div>							
 							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> doormonetdzhanibekov.kml</span></div>
                                 <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> ISOCAUNUC_SI.kml</span></div>
 								<div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> geo_regions.kml</span></div>
@@ -145,7 +146,8 @@
         });
 
         // Add remote KMZ files as layers (NB if they are 3rd-party servers, they MUST have CORS enabled)
-        kmz.add('./doormonetdzhanibekov.kml');
+        kmz.add('./3AKBOI_TRIAQBOY_m.kml');
+		kmz.add('./doormonetdzhanibekov.kml');
 		kmz.add('./ISOCAUNUC_SI.kml');
 		kmz.add('./geo_regions.kml');
         kmz.add('./PARIS_TWINdb.kml');
