@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>cloubcardenis</name>
+	<description><![CDATA[<a href="https://aibolem.github.io/dbrein/FrontEnd/index.html">https://aibolem.github.io/dbrein/FrontEnd/index.html</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-09-20T09:40:00Z</when>
+</gx:TimeStamp>
+		<longitude>41.42971379252062</longitude>
+		<latitude>43.73799791925951</latitude>
+		<altitude>0</altitude>
+		<heading>0.2537883490086322</heading>
+		<tilt>0</tilt>
+		<range>2936287.402122073</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>57ffffff</color>
+	<drawOrder>3</drawOrder>
+	<Icon>
+		<href>cloubkaradenis.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<altitude>330000</altitude>
+	<altitudeMode>absolute</altitudeMode>
+	<LatLonBox>
+		<north>47.04985414711125</north>
+		<south>41.07110437366661</south>
+		<east>42.82570152659284</east>
+		<west>25.97816515417677</west>
+		<rotation>-7.224442005157471</rotation>
+	</LatLonBox>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+</GroundOverlay>
+</kml>
