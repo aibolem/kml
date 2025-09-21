@@ -16,7 +16,7 @@
 	</LookAt>
 	<color>b8ffffff</color>
 	<Icon>
-		<href>L:/Clones_github/kml-gh-pages/png_svg_tiff/ISOCAUNUC_SI_975kb_R57.56_cr-min.png</href>
+		<href>ISOCAUNUC_SI_975kb_R57.56_cr-min.png</href>
 		<refreshMode>onExpire</refreshMode>
 		<viewRefreshMode>onRequest</viewRefreshMode>
 		<viewBoundScale>0.75</viewBoundScale>
