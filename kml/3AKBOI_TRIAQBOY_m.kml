@@ -26,7 +26,7 @@
 		<south>55.75398611111111</south>
 		<east>37.62033333333333</east>
 		<west>37.61823888888889</west>
-		<rotation>-2.517</rotation>
+		<rotation>0.0</rotation>
 	</LatLonBox>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
 </GroundOverlay>
