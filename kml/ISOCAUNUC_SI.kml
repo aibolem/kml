@@ -15,7 +15,6 @@
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
 	<color>b8ffffff</color>
-	<drawOrder>4</drawOrder>
 	<Icon>
 		<href>ISOCAUNUC_SI_975kb_R57.56_cr-min.png</href>
 		<refreshMode>onExpire</refreshMode>
