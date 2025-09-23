@@ -15,7 +15,7 @@
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
 	<color>a3ffffff</color>
-	<drawOrder>5</drawOrder>
+	<drawOrder>1</drawOrder>
 	<Icon>
 		<href>old_door.png</href>
 		<refreshMode>onExpire</refreshMode>
