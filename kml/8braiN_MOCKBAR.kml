@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>8braiN_MOCKBAR</name>
+	<description><![CDATA[<a href="https://github.com/aibolem/kml/wiki">https://github.com/aibolem/kml/wiki</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-10-01T15:01:00Z</when>
+</gx:TimeStamp>
+		<longitude>37.61579259109254</longitude>
+		<latitude>55.76673283045716</latitude>
+		<altitude>0</altitude>
+		<heading>0.0005762032097069278</heading>
+		<tilt>5.015456531465527</tilt>
+		<range>109685.0838352683</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>96ffffff</color>
+	<Icon>
+		<href>8braiN_MOCKBAR.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>56.048275</north>
+		<south>55.46605277777779</south>
+		<east>38.05738888888889</east>
+		<west>37.04069722222222</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
