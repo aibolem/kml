@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>AAA_ISOCAUNUC_SI</name>
+	<description><![CDATA[<a href="https://github.com/barionleg/leaflet.control.opacity/wiki">https://github.com/barionleg/leaflet.control.opacity/wiki</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-09-29T07:00:00Z</when>
+</gx:TimeStamp>
+		<longitude>37.53548802686961</longitude>
+		<latitude>45.11224421274078</latitude>
+		<altitude>0</altitude>
+		<heading>-3.988248417533577</heading>
+		<tilt>0</tilt>
+		<range>323960.3225619797</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>bfffffff</color>
+	<Icon>
+		<href>AAA_ISOCAUNUC_SI.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>45.47699444444444</north>
+		<south>39.05732777777777</south>
+		<east>50.66101111111111</east>
+		<west>36.56513055555556</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
