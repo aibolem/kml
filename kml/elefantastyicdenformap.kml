@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PÅMESTIÄIKOPEEK</name>
+	<open>1</open>
+	<description>elefantastyicdenformap</description>
+			<Folder>
+		
+		<GroundOverlay>
+	<name>elefantamap</name>
+	<description><![CDATA[<a href="https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII">https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII</a>]]></description>
+	<LookAt>
+		<longitude>126.9942408111396</longitude>
+		<latitude>37.58177635177713</latitude>
+		<altitude>0</altitude>
+		<heading>-0.0312012843201781</heading>
+		<tilt>0</tilt>
+		<range>24151.57849728178</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>b0ffffff</color>
+	<Icon>
+		<href>elefantamap_tr.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>37.61512974643242</north>
+		<south>37.51731722266785</south>
+		<east>127.101682147549</east>
+		<west>126.8920616986794</west>
+	</LatLonBox>
+</GroundOverlay>
+			</Folder>
+	<Folder>
 <GroundOverlay>
 	<name>elefantastyicdenformap</name>
 	<description><![CDATA[<a href="https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII">https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII</a>]]></description>
@@ -16,7 +50,7 @@
 	</LookAt>
 	<color>e0ffffff</color>
 	<Icon>
-		<href>files/elefanta_formap.png</href>
+		<href>elefanta_formap.png</href>
 		<refreshMode>onExpire</refreshMode>
 		<viewRefreshMode>onRequest</viewRefreshMode>
 		<viewBoundScale>0.75</viewBoundScale>
@@ -28,4 +62,6 @@
 		<west>126.9398559639194</west>
 	</LatLonBox>
 </GroundOverlay>
+	</Folder>
+<Document>
 </kml>
