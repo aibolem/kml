@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>camPucunya.png</name>
+	<description><![CDATA[<a href="https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII">https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-10-05T10:45:00Z</when>
+</gx:TimeStamp>
+		<longitude>127.0448241014276</longitude>
+		<latitude>37.55620875098091</latitude>
+		<altitude>0</altitude>
+		<heading>0.1707590377749761</heading>
+		<tilt>5.749405738033599</tilt>
+		<range>2195.770498179927</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>99ffffff</color>
+	<Icon>
+		<href>camPucunya.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>37.56212222222222</north>
+		<south>37.55375555555555</south>
+		<east>127.0518472222222</east>
+		<west>127.0399055555555</west>
+		<rotation>-38.3656</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
