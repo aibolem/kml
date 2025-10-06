@@ -14,7 +14,8 @@
 		<range>5403613.679651793</range>
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
-	<color>e8ffffff</color>
+	<color>a8ffffff</color>
+	<drawOrder>2</drawOrder>
 	<Icon>
 		<href>jovalvg1_2.png</href>
 		<refreshMode>onInterval</refreshMode>
