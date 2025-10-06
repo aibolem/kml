@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Jupiter_eye_Voyager1</name>
+	<description><![CDATA[<a href="https://github.com/aibolem/kml/wiki">https://github.com/aibolem/kml/wiki</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-10-06T16:55:00Z</when>
+</gx:TimeStamp>
+		<longitude>85.44119239175251</longitude>
+		<latitude>34.30074291794205</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>5403613.679651793</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>a6ffffff</color>
+	<Icon>
+		<href>jovalvg1_2.png</href>
+		<refreshMode>onInterval</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>44.34270121999859</north>
+		<south>26.62542960338878</south>
+		<east>110.0430201656674</east>
+		<west>70.95562924640417</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
