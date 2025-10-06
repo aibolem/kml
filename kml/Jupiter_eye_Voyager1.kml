@@ -14,7 +14,7 @@
 		<range>5403613.679651793</range>
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
-	<color>a6ffffff</color>
+	<color>e8ffffff</color>
 	<Icon>
 		<href>jovalvg1_2.png</href>
 		<refreshMode>onInterval</refreshMode>
@@ -22,10 +22,10 @@
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
-		<north>44.34270121999859</north>
-		<south>26.62542960338878</south>
-		<east>110.0430201656674</east>
-		<west>70.95562924640417</west>
+		<north>42.53655656685878</north>
+		<south>33.33403377046552</south>
+		<east>96.71287305633639</east>
+		<west>75.84319193240646</west>
 	</LatLonBox>
 </GroundOverlay>
 </kml>
