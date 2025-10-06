@@ -14,6 +14,8 @@
 		<range>3584543.224912971</range>
 		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 	</LookAt>
+	<color>baffffff</color>
+	<drawOrder>1</drawOrder>
 	<Icon>
 		<href>greenld_v27.26.png</href>
 		<refreshMode>onExpire</refreshMode>
