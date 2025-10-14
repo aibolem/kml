@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>tiger_vinklad</name>
+	<description><![CDATA[<a href="https://aibolem.github.io/kml/kml/tiga.html">https://aibolem.github.io/kml/kml/tiga.html</a>]]></description>
+	<LookAt>
+		<gx:TimeStamp><when>2025-10-14T20:22:00Z</when>
+</gx:TimeStamp>
+		<longitude>14.25132109956839</longitude>
+		<latitude>62.91970392702125</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>3091063</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>94ffffff</color>
+	<Icon>
+		<href>tiger_vinklad_pa_50.05_grader_2.png</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onRequest</viewRefreshMode>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>69.77887777777778</north>
+		<south>55.11221388888889</south>
+		<east>30.75344722222222</east>
+		<west>3.604972222222222</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
