@@ -74,8 +74,7 @@
                         <div class="leaflet-control-layers-base"></div>
                         <div class="leaflet-control-layers-separator" style="display: none;"></div>
                         <div class="leaflet-control-layers-overlays"><label>
-							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> doormonetdzhanibekov.kml</span></div>
-							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> cloubcardenis.kml</span></div>
+							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> tiger_vinklad.kml</span></div>
                             </label></div>
                     </section>
                 </div>
@@ -100,7 +99,7 @@
     <script>
         var map = L.map('map', {
             center: [62.478788, 21.221704],
-            zoom: 13,
+            zoom: 9,
             mapTypeId: 'satellite',
             gestureHandling: false,
             searchControl: true,
@@ -136,8 +135,7 @@
         });
 
         // Add remote KMZ files as layers (NB if they are 3rd-party servers, they MUST have CORS enabled)
-		kmz.add('./doormonetdzhanibekov.kml');
-	    kmz.add('./cloubcardenis.kml');
+		kmz.add('./tiger_vinklad.kml');
         // var opts = {
         // 	elevationControl: {
         // 		url: "https://barionleg.github.io/leaflet-kmz/examples/via-emilia.gpx",
