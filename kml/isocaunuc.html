@@ -75,7 +75,8 @@
                         <div class="leaflet-control-layers-separator" style="display: none;"></div>
                         <div class="leaflet-control-layers-overlays"><label>  
                                 <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> AAA_ISOCAUNUC_SI.kml</span></div>
-                            </label></div>
+                           <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> geo_regions.kml</span></div>
+						</label></div>
                     </section>
                 </div>
             </div>
@@ -133,9 +134,10 @@
             control.addOverlay(e.layer, e.name);
             // e.layer.addTo(map);
         });
-
+geo_regions.kml
         // Add remote KMZ files as layers (NB if they are 3rd-party servers, they MUST have CORS enabled)
 		kmz.add('./AAA_ISOCAUNUC_SI.kml');
+		kmz.add('./geo_regions.kml');
         // var opts = {
         // 	elevationControl: {
         // 		url: "https://barionleg.github.io/leaflet-kmz/examples/via-emilia.gpx",
