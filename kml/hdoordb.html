@@ -66,7 +66,7 @@
                         <div class="leaflet-control-layers-overlays"></div>
                     </section>
                 </div>
-            </div>
+            </div>   
             <div class="leaflet-top leaflet-right">
                 <div class="leaflet-bar leaflet-control"><a class="leaflet-control-zoom-fullscreen fullscreen-icon" href="#" title="Enter Fullscreen" role="button" aria-label="Enter Fullscreen" style=""></a></div>
                 <div class="leaflet-control-layers leaflet-control-layers-expanded leaflet-control" aria-haspopup="true"><a class="leaflet-control-layers-toggle" href="#" title="Layers"></a>
@@ -76,6 +76,8 @@
                         <div class="leaflet-control-layers-overlays"><label>
 							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> doormonetdzhanibekov.kml</span></div>
 							    <div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> cloubcardenis.kml</span></div>
+								div><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> geo_regions.kml</span></div>
+
                             </label></div>
                     </section>
                 </div>
@@ -138,6 +140,7 @@
         // Add remote KMZ files as layers (NB if they are 3rd-party servers, they MUST have CORS enabled)
 		kmz.add('./doormonetdzhanibekov.kml');
 	    kmz.add('./cloubcardenis.kml');
+		kmz.add('./geo_regions.kml');
         // var opts = {
         // 	elevationControl: {
         // 		url: "https://barionleg.github.io/leaflet-kmz/examples/via-emilia.gpx",
