@@ -1,9 +1,49 @@
 # [Welcome to the kml](https://github.com/aibolem/kml/)
 
+List of webb sites:
 
-https://aibolem.github.io/kml/kml/index.html
+
+https://github.com/aibolem/kml/wiki/spacetab.html
+
+
+https://github.com/aibolem/kml/wiki/Al_Haram_Pyramiderna
+
+
+https://github.com/aibolem/kml/wiki/heavens_door_monet_dz_han_ib_ek_o_v
+
+
+https://github.com/aibolem/kml/wiki/hicolad
+
+
+https://github.com/aibolem/kml/wiki/himalaya
+
+
+https://github.com/aibolem/kml/wiki/iKOPEEK_ASCII
+
+
+
+https://github.com/aibolem/kml/wiki/isocaunuc
+
+
+
+https://github.com/aibolem/kml/wiki/MOCKBA.Pu
+
+
+
+https://github.com/aibolem/kml/wiki/twindex.html
+
+
+
+https://github.com/aibolem/kml/wiki/wirckling_tiger
+
+
+
+all oldys together:   https://aibolem.github.io/kml/kml/index.html
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2baf0c4c-60d1-42d4-bc39-13137420e50b" />
+
+alternative   https://github.com/aibolem/kml/wiki/leaflet.control.opacity
+
 
 ___
 ___
